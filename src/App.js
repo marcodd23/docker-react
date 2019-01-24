@@ -15,7 +15,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Changed by development !
+            Changed by development !!
           </a>
         </header>
       </div>
